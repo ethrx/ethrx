@@ -3,7 +3,7 @@
 
 <h2 align="center">📊GitHub Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ethrx&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethrx&amp;theme=react&amp;hide_border=false" alt=""><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethrx&amp;theme=react&amp;hide_border=true" alt=""><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethrx&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 </p>
 
