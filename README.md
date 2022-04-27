@@ -1,5 +1,7 @@
-# 💫About Me :
+<p align="center">
+<h1>About Me:</h1>
 Hi, I'm Ethan - a student developer interested in cyber security and crypto.
+</p>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ethrx&theme=buefy&hide_border=true&include_all_commits=true&count_private=false)<br/>
