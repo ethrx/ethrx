@@ -1,5 +1,5 @@
 <h2 align="center">👋 Intro</h2>
-<p align="center"> Hi, I'm Ethan - a student developer interested in cyber security and crypto.</p>
+<p align="center">Cyber Security Professional. Currently working as a SWE in CX.</p>
 
 <h2 align="center">📊GitHub Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ethrx&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""><br/><br>
